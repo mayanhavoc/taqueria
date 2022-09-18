@@ -1,1 +1,3 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+Project name: Taquería
+Stack: NextJs and Bootstrap
+Features: Responsive, sticky navbar, sticky menu ...
